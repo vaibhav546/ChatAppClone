@@ -18,7 +18,7 @@ Users can sign up, log in, chat in real time, share a status with images, and ma
 
 | Login | Chat | Status | Profile |
 |-------|------|--------|---------|
-| ![Login](screenshots/login.png) | ![Chat](screenshots/chat.png) | ![Status](screenshots/status.png) | ![Profile](screenshots/profile.png) |
+| ![Login](screenshort/login.png) | ![Chat](screenshort/chat.png) | ![Status](screenshort/status.png) | ![Profile](screenshort/profile.png) |
 
 ## Tech Stack
 
